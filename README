@@ -1,0 +1,1 @@
+This repo contains a dockerfile that at first looks like inoffensive, but it contains a trojanized /bin/bash
